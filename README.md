@@ -4,7 +4,7 @@
 This repository contains a comprehensive analysis of a dataset focused on student performance. The project leverages advanced techniques for exploratory data analysis (EDA) and machine learning (Random Forest) to identify the most critical factors influencing students' exam scores.
 
 ## 📂 Repository Contents
-- **tStudentPerformance.ipynb**: The main Jupyter Notebook file, including all the code for data cleaning, feature engineering, EDA, and model fitting.
+- **StudentPerformance.ipynb**: The main Jupyter Notebook file, including all the code for data cleaning, feature engineering, EDA, and model fitting.
 - **StudentPerformanceFactors.csv**: The Student Performance dataset. [Download from Kaggle](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors).
 
 ## 📊 Key Insights :
